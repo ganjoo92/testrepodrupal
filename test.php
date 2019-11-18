@@ -5,7 +5,7 @@
         <title>Random Number</title>
     </head>
     <body>
-        <p>Generating a random number between 1 and 11:
+        <p>Generating a random number between 1 and 12:
             <?php
             echo rand(1, 10);
             ?>
